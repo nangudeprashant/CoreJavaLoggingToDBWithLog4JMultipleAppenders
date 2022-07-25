@@ -1,0 +1,5 @@
+DEBUG [main] - 2022-07-23 15:31:35.644; - (LoggingWithLog4JMultipleAppenders.java:10) - This is debug message
+ INFO [main] - 2022-07-23 15:31:35.658; - (LoggingWithLog4JMultipleAppenders.java:11) - This is info message
+ WARN [main] - 2022-07-23 15:31:35.659; - (LoggingWithLog4JMultipleAppenders.java:12) - This is warn message
+FATAL [main] - 2022-07-23 15:31:35.659; - (LoggingWithLog4JMultipleAppenders.java:13) - This is fatal message
+ERROR [main] - 2022-07-23 15:31:35.660; - (LoggingWithLog4JMultipleAppenders.java:14) - This is error message
